@@ -1,3 +1,19 @@
+# Bankruptcy Prediction using Machine Learning
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://bankruptcy-prediction-ml-gd3lh9wcy29wf3ezzuui2m.streamlit.app/)
+
+## 🚀 Live Demo
+
+Try the application here:
+https://bankruptcy-prediction-ml-gd3lh9wcy29wf3ezzuui2m.streamlit.app/
+
+---
+
+## Project Overview
+
+This project predicts whether a company is at risk of bankruptcy using machine learning models trained on financial indicators from the Taiwan Company Bankruptcy dataset.
+
+
 ## Bankruptcy Prediction using Machine Learning
 
 End-to-end Machine Learning project that predicts whether a company will go bankrupt using the **Taiwan Company Bankruptcy Prediction** dataset.
